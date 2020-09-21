@@ -1,6 +1,6 @@
 # Video Courses
 
-Welcome here! This is the place where you found all video course to become Opencrmitalia Developers
+Welcome here! This is the place where you found all video course to become Opencrmitalia Developer
 
 ## All Courses
 
