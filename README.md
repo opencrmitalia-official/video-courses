@@ -6,7 +6,7 @@ Welcome here! This is the place where you found all video course to become Openc
 
 Select the course you need due to improve your skills
 
-1. [Opencrmitalia Module Development](MODULE_DEVELOPMENT.md)
-2. [Opencrmitalia Myddleware Development](MYDDLEWARE_DEVELOPMENT.md)
-3. [Opencrmitalia Api Development](API_DEVELOPMENT.md)
-4. [Opencrmitalia Software Design](SOFTWARE_DESIGN.md)
+1. [(VC1) Opencrmitalia Module Development](MODULE_DEVELOPMENT.md)
+2. [(VC2) Opencrmitalia Myddleware Development](MYDDLEWARE_DEVELOPMENT.md)
+3. [(VC3) Opencrmitalia Api Development](API_DEVELOPMENT.md)
+4. [(VC4) Opencrmitalia Software Design](SOFTWARE_DESIGN.md)
