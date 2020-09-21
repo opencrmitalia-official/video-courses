@@ -21,6 +21,10 @@
 
 - <https://drive.google.com/file/d/1dMnqpTqBN00PRt3qrMLth-Oh3mufsikE/view?usp=sharing>
 
-## Lesson 6: Advanced Invetory
+## Lesson 6: Suite Opencrmitalia
+
+- <https://drive.google.com/file/d/1DZXmHkaLb1GkobTKUhoOqcSZoekLPqVu/view?usp=sharing>
+
+## Lesson 7: Advanced Invetory
 
 - <https://drive.google.com/file/d/1Wb3CBLjwTCddvrdGusy3UWhdCc16lBgm/view?usp=sharing>
